@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33423.255
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMAPI Connection", "COMAPI Connection\COMAPI Connection.csproj", "{C1738D7C-D534-4978-ABCC-081E78C3FBE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1738D7C-D534-4978-ABCC-081E78C3FBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1738D7C-D534-4978-ABCC-081E78C3FBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1738D7C-D534-4978-ABCC-081E78C3FBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1738D7C-D534-4978-ABCC-081E78C3FBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35FEF75D-131C-4CFB-984E-AE65EF99D97A}
+	EndGlobalSection
+EndGlobal

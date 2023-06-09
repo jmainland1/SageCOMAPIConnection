@@ -1,0 +1,15 @@
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\bin\Debug\COMAPI Connection.exe.config
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\bin\Debug\COMAPI Connection.exe
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\bin\Debug\COMAPI Connection.pdb
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\COMAPI Connection.csprojAssemblyReference.cache
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\Interop.AccpacCOMAPI.dll
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\Interop.AccpacMeter.dll
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\Interop.AccpacSessionManager.dll
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\Interop.LocResources.dll
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\COMAPI Connection.csproj.ResolveComReference.cache
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\COMAPI_Connection.Properties.Resources.resources
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\COMAPI Connection.csproj.GenerateResource.cache
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\COMAPI Connection.csproj.CoreCompileInputs.cache
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\COMAPI Connection.exe
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\COMAPI Connection.pdb
+C:\Users\DEVELOP\Documents\Visual Studio 2017\Projects\COMAPI Connection\COMAPI Connection\COMAPI Connection\obj\Debug\COMAPI_Connection.Form1.resources
